@@ -14,7 +14,7 @@ Aquí aprenderemos el flujo de trabajo básico con Git y GitHub de forma colabor
 
 - Añade tu línea en la sección Participantes de abajo
 
-- Haz commit y push de tus cambios
+- Haz git add, commit y push de tus cambios
 
 - Abre un Pull Request hacia este repositorio
 
@@ -24,32 +24,29 @@ Cada participante añade una línea con su nombre y una frase corta.
 
 <!-- Añade tu línea aquí debajo -->
 
--
--
--
--
--
--
--
--
--
--
--
--
--
--
--
--
--
--
--
--
--
--
--
--
--
--
+-María José: 
+-María Adriana:
+-Javier Ángel:
+-Gianmario:
+-María Elena:
+-Helena DM:
+-María Isabel:
+-Luis Ahmedel:
+-Anas Fady:
+-Elena Fernández:
+-Vanessa:
+-Verónica:
+-José Manuel:
+-Pedro Leonardo:
+-David:
+-María Jesús:
+-Yohanna:
+-Elizabeth:
+-Laura SR:
+-Isabella:
+-Gema:
+-Tatiana:
+-Melissa:
 -
 
 Flujo de trabajo visto en clase
