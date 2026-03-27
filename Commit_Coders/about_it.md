@@ -7,7 +7,5 @@ siguiendo el siguiente flujo profesional de Git.
 <img width="848" height="134" alt="AdobeExpressPhotos_64b4549b26ea474b94b3baa75090773f_CopyEdited" src="https://github.com/user-attachments/assets/eee0ddb3-ad21-4f94-8d7e-aa7eaa4b3cb3" />
 
 
-En este ejercicio empezamos desde el paso 2 directamente.
-
 Nadie trabaja sobre la rama main, crea tu propia rama username/juan_perez y trabaja sobre esta.
 
